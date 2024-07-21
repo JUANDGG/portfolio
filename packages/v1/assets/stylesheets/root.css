@@ -1,0 +1,146 @@
+/* Reset CSS */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body styles */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #04223a;
+}
+
+/* Root container */
+.root {
+    max-width: 50vw;
+    display: grid;
+    grid-template-columns: 1fr 300px;
+    margin: 20px;
+}
+
+/* Main section */
+.main {
+    background: #fefdfd;
+    padding: 10px;
+}
+
+.main div {
+    margin-top: 30px;
+}
+
+.main h1,
+.main h2 {
+    color: #163853;
+    text-transform: capitalize;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+.main li {
+    margin-left: 20px;
+}
+
+.main header h1 span {
+    color: #545454;
+    font-weight: bold;
+    font-size: 35px;
+}
+
+.main header::after {
+    content: '';
+    display: block;
+    width: 15%;
+    height: 2px;
+    background-color: #163853;
+    margin-top: 10px;
+}
+
+/* Experience section */
+.experience > ul {
+    list-style: none;
+    margin-top: 10px;
+}
+
+/* Projects section */
+.projects > ul,
+.projects ul {
+    list-style: none;
+    margin-top: 10px;
+}
+
+.projects > ul > li {
+    margin-top: 10px;
+}
+
+/* Aside section */
+.aside {
+    background-color: #163853;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    padding: 10px;
+}
+
+.aside h2 {
+    color: #fff;
+}
+
+/* Image profile */
+.container_image_profile {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container_image_profile img {
+    max-width: 200px;
+    border-radius: 50%;
+    outline: 3px solid #0b8574;
+    box-shadow: 0px 0px 10px #fff;
+    opacity: 0.7;
+}
+
+/* Contact section */
+.conctact ul {
+    list-style: none;
+    margin-top: 10px;
+}
+
+.conctact  a {
+    color: #c7c5c5;
+}
+
+/* Social networks section */
+.container_social_network ul {
+    list-style: none;
+}
+
+.container_social_network ul li {
+    margin-top: 10px;
+}
+
+.container_social_network ul li a {
+    color: #fff;
+}
+
+/* Education section */
+.education_container ul li {
+    margin-top: 10px;
+}
+
+/* References section */
+.references ul li {
+    margin-top: 20px;
+}
+
+.references ul li a {
+    display: block;
+    color: #fff;
+    margin-top: 5px;
+}

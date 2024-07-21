@@ -1,0 +1,151 @@
+{
+    "basics": {
+      "name": "Juan Guiza",
+      "role": "Desarrollador web junior",
+      "about_me":"¡Hola! Me llamo Juan David Guiza, soy un joven de 21 años apasionado por el mundo del desarrollo de software y la tecnología. Actualmente estoy enfocado en el desarrollo web, siempre comprometido con mejorar y avanzar en mi proceso de aprendizaje. Estoy en constante evolución, preparado para enfrentar nuevos desafíos. Mi objetivo es desarrollar soluciones que impulsen el éxito de una compañía y contribuir a su crecimiento de la mejor manera posible.",
+      "image": "/images/photo_profile.png",
+      "conctact":{
+        "emails": {
+          "email1":"juanguiza65@gmail.com"
+        },
+        "phones": {
+          "phone1":"3186231408"
+        }
+      },
+
+    
+      "profile": [
+        {
+        "network": "Github",
+        "username": "JUANDGG",
+        "url": "https://WWW.github.com/JUANDGG"
+        } ,
+
+        {
+          "network": "Linkeding",
+          "username": "/juan-david-guiza-garcia/",
+          "url": "https://www.linkedin.com/in/juan-david-guiza-garcia/"
+          }
+    ]
+    },
+    "work": [{
+      "name_company": "Cooperativa de tecnólogos e ingenieros de la industria del petróleo",
+      "description":null,
+      "position": "soporte técnico",
+      "responsabilities" :[
+        "Proporcioné soporte técnico integral a todos los empleados de la empresa,asegurando que recibieran asistencia oportuna y efectiva para resolvercualquier problema técnico." ,
+        "Evalué y actualicé regularmente el software utilizado en la empresa para garantizar que se contara con las versiones más seguras y eficientes"
+      ],
+      "achievements":[],
+      "startYear": "2022",
+      "endYear": "2023"
+    }],
+      "projects":[
+        { 
+          "name_project":"Aplicación web para jardinería (GARDENING GUIZKEV)",
+          "description":"Desarrollé junto con mi equipo una aplicación web de jardinería, la cual permite consultas de una base de datos a través de una interfaz de usuario. El modelo de negocio propuesto buscaba migrar datos de bases de datos locales a bases de datos alojadas en un servidor en lanubepara facilitar el acceso a los datos",
+          "tecnologies":[
+            "FrontEnd: JavaScript, HTML5, CSS3, Bootstrap 5",
+            "BackEnd: Java 17, SpringBoot 3.2.3",
+            "Seguridad: JWT 0.11.5, Spring Security",
+            "Documentación API: SpringDoc 2.3.0",
+            "Base de datos: MySQL"
+          ] ,
+          "tools":[
+            "IDEs: VSCode, IntelliJ IDEA" ,
+            "Gestión de base de datos: PhpMyAdmin",
+            "Pruebas API: Postman",
+            "Git/GitHub"
+            ] ,
+          "achievements":["Con esta aplicación logramos automatizar un problema que tenía laempresa, acelerando el proceso de búsqueda hasta en un 50%."],
+          "year":2024
+        },
+        { 
+          "name_project":"Aplicación web para control de eventos (HuanSync)",
+          "description":"Desarrollé junto con mi equipo de compañeros una aplicación de línea de comandos (CLI) denominada HuanSync, diseñada para gestionareventos dentro de un evento de manera eficiente y efectiva",
+          "tecnologies":[
+            "Java 17",
+            "MySQL"
+          ] ,
+          "tools":[
+            "PhpMyAdmin",
+            "MySQL Workbench",
+            "IntelliJ IDEA",
+            "StarUML",
+            "Draw.io",
+            "Git/GitHub"
+            ] ,
+          "achievements":[
+            "Automatización de la gestión de eventos, reduciendo el tiempo y el esfuerzo necesarios para la coordinación",
+            "Mejora en la eficiencia y precisión de la gestión de eventos,aumentando la satisfacción de los participantes y organizadores" ,
+            "Preparación para el crecimiento futuro, permitiendo una escalabilidad eficiente sin comprometer el rendimiento"
+          ],
+          "year":2023
+        }
+      ]
+      ,
+
+    "education": [
+      {
+      "institution": "Colegio Juan Cristóbal Martínez",
+      "area": "Bachiller académico",
+      "startDate": "2021",
+      "endDate": "2022"
+    },
+    {
+      "institution": "Servicio Nacional de Aprendizaje (SENA)",
+      "area": "Técnico en programación de software",
+      "startDate": "2022",
+      "endDate": "2023"
+    },
+    {
+      "institution": "Campuslands",
+      "area": "Técnico en Desarrollo de Software",
+      "startDate": "2023",
+      "endDate": "2024"
+    }
+  ],
+  
+    "skills": [
+      {
+      "name": "tecnologias",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "docker" 
+
+        ]
+      } ,
+      {
+        "name": "Habilidades blandas",
+        "keywords": [
+          "Líder", "autodidacta", "responsable"
+  
+          ]
+        }
+  ],
+    "references": [
+      {
+      "name": "Cooperativa de tecnólogos e ingenieros de la industria del petróleo",
+      "role":null,
+      "phoneNumber": 3134669653
+      },
+      {
+        "name": "Juan Marño",
+        "role":"ingeniero en sistemas",
+        "phoneNumber": 3214073336
+      },
+      {
+        "name": "Adrián Ruiz",
+        "role":"Programador",
+        "phoneNumber": 3183280195
+      },
+      {
+        "name": "Ana Garcia",
+        "role":null,
+        "phoneNumber": 3186231408
+      }
+    ]
+  }
+  
