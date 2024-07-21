@@ -3,4 +3,4 @@ This project is a project which consists of creating a portfolio about my work, 
 
 | version  | Used technology | uri|
 |----------|----------|----------|
-| v1      |HTML,CSS,JAVASCRIPT    | none   |
+| v1      |HTML,CSS,JAVASCRIPT    | <a href="portfolio-eight-iota-28.vercel.app">Link</a>|
